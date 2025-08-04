@@ -24,9 +24,11 @@
 
 <p align="center">
 
+<p> Desarrollador Full Stack con habilidades en HTML5, CSS, Tailwind CSS, JavaScript y TypeScript, con fortalezas en liderazgo, trabajo colaborativo, gestión de proyectos, pensamiento crítico, comunicación eficaz, orientación a resultados y adaptabilidad.</p>
+
 <br>   
     
-- **Front-End Development**:
+- **lenguage**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
